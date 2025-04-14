@@ -1,34 +1,266 @@
 [
     {
-        "companyName": "Check Point Software Technologies",
-        "origin": "Israel",
-        "establishedBy": "Gil Shwed, Marius Nacht, and Shlomo Kramer",
-        "currentOwner": "Publicly traded",
+        "companyName": "Nestlé",
+        "origin": "Switzerland",
+        "establishedBy": "হেনরি নেসলে",
+        "currentOwner": "Public company, various shareholders",
         "is": "haram",
-        "note": "Israeli-founded cybersecurity company headquartered in Tel Aviv. Companies with Israeli origins are considered haram by many Islamic scholars due to concerns about supporting the Israeli state."
+        "note": "নেসলে ইসরায়েল খাদ্য নির্মাতা ওসেম ইনভেস্টমেন্টস লিমিটেডের ১০০% মালিকানা রাখে, যা অবৈধভাবে দখল করা ফিলিস্তিনি ভূমিতে কার্যক্রম পরিচালনা করে।"
     },
     {
-        "companyName": "Teva Pharmaceutical Industries",
-        "origin": "Israel",
-        "establishedBy": "Chaim Salomon, Moshe Levin, and Yitschak Elstein",
-        "currentOwner": "Publicly traded",
+        "companyName": "PepsiCo",
+        "origin": "USA",
+        "establishedBy": "ক্যালেব ব্র্যাডহ্যাম এবং ডোনাল্ড ওয়াইন",
+        "currentOwner": "Public company, various shareholders",
         "is": "haram",
-        "note": "World's largest generic drug manufacturer based in Israel. Supporting Israeli companies is considered haram by many Islamic authorities due to political and religious concerns."
+        "note": "পেপসিকো সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে এবং সম্প্রতি অ্যালকোহলযুক্ত পানীয় বিভাগে প্রবেশ করেছে।"
     },
     {
-        "companyName": "Wix",
-        "origin": "Israel",
-        "establishedBy": "মাহিরা জান্নাত, মারজিয়া খাতুন, মাহাজাবিন চৌধুরী",
-        "currentOwner": "Publicly traded",
+        "companyName": "Coca-Cola Company",
+        "origin": "USA",
+        "establishedBy": "জন পেম্বারটন",
+        "currentOwner": "Public company, various shareholders",
+        "is": "haram",
+        "note": "কোকা-কোলা ইসরায়েল অটারোট নামক অবৈধ ইসরায়েলি বসতিতে পরিচালনা করে এবং এবং ইসরায়েল সামরিক বাহিনীকে সক্রিয় সমর্থন করেছে।"
+    },
+    {
+        "companyName": "Unilever",
+        "origin": "UK/Netherlands",
+        "establishedBy": "উইলিয়াম হেসকেথ লিভার",
+        "currentOwner": "Public company, various shareholders",
         "is": "halal",
-        "note": "ওয়েবসাইট ডেভেলপমেন্ট প্ল্যাটফর্ম। প্রতিষ্ঠিত এবং সদর দফতর তেল আবিব, ইসরায়েলে। ফিলিস্তিনি ভূখণ্ড দখলের কারণে অনেক মুসলমান ইসরায়েলে প্রতিষ্ঠিত কোম্পানিগুলিকে হারাম বলে মনে করেন।"
+        "note": "ইউনিলিভার হালাল সার্টিফিকেশন প্রদান করে এবং মুসলিম উপভোক্তাদের চাহিদা অনুযায়ী হালাল পণ্য উৎপাদন করে। তবে কিছু দেশে সমকামী সম্প্রদায়কে সমর্থন করলেও, মূল ব্যবসায়িক কার্যক্রমে এটি প্রভাব ফেলেনি।"
     },
     {
-        "companyName": "Super Group (Betway)",
-        "origin": "Malta",
-        "establishedBy": "Super Group Ltd",
-        "currentOwner": "Publicly traded",
+        "companyName": "Tyson Foods",
+        "origin": "USA",
+        "establishedBy": "জন টাইসন",
+        "currentOwner": "টাইসন পরিবার এবং Public shareholders",
         "is": "haram",
-        "note": "Online sports betting and gaming company (Betway, Spin). Online gambling and sports betting are explicitly forbidden (haram) in Islam as forms of gambling."
+        "note": "টাইসন ফুডস ইসরায়েল স্টার্টআপ 'ফিউচার মিট টেকনোলজিস'-এ বিনিয়োগ করেছে এবং সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে।"
+    },
+    {
+        "companyName": "JBS SA",
+        "origin": "Brazil",
+        "establishedBy": "জোসে বাটিস্টা সোবরিনহো",
+        "currentOwner": "বাটিস্টা পরিবার",
+        "is": "halal",
+        "note": "জেবিএস এসএ হালাল সার্টিফিকেশন প্রদান করে এবং বিশ্বব্যাপী হালাল মাংস রপ্তানি করে। এখন পর্যন্ত এদের ইসরায়েল, সমকামী সমর্থন বা হারাম কার্যক্রমের সাথে সম্পর্ক পাওয়া যায়নি।"
+    },
+    {
+        "companyName": "Mondelez International",
+        "origin": "USA",
+        "establishedBy": "জেমস লুইস ক্রাফট (ক্রাফট ফুডস থেকে)",
+        "currentOwner": "Public company, various shareholders",
+        "is": "haram",
+        "note": "মন্দেলিজের প্রাক্তন প্রধান নির্বাহী কর্মকর্তা ইরেন রোসেনফেল্ড ইহুদি এবং কোম্পানি ইসরায়েল ফুডটেক ইনকিউবেটরের সাথে সহযোগিতা করে। এছাড়াও দখলকৃত ফিলিস্তিনি ভূমিতে ব্যবসায়িক কার্যক্রম পরিচালনা করে।"
+    },
+    {
+        "companyName": "Kraft Heinz",
+        "origin": "USA",
+        "establishedBy": "জেমস এল. ক্র্যাফ্ট",
+        "currentOwner": "৩জি ক্যাপিটাল এবং Berkshire Hathaway",
+        "is": "haram",
+        "note": "ক্র্যাফ্ট হাইনজ শারিয়াহ অনুযায়ী অনুমোদিত নয়, এবং কোম্পানিটি সুদভিত্তিক আর্থিক ব্যবস্থার সাথে জড়িত। এছাড়াও সমকামী সম্প্রদায়কে সমর্থন করে।"
+    },
+    {
+        "companyName": "General Mills",
+        "origin": "USA",
+        "establishedBy": "ক্যাডওয়ালেডার সি. ওয়াশবার্ন",
+        "currentOwner": "Public company, various shareholders",
+        "is": "haram",
+        "note": "জেনারেল মিলস সম্প্রতি ইসরায়েল তার যৌথ উদ্যোগ বিক্রি করলেও, বছরের পর বছর ধরে ইসরায়েল ব্যবসা করেছে এবং দখলকৃত ফিলিস্তিনি ভূমিতে পণ্য উৎপাদন করেছে।"
+    },
+    {
+        "companyName": "Danone",
+        "origin": "France",
+        "establishedBy": "আইসাক কারাসো",
+        "currentOwner": "Public company, various shareholders",
+        "is": "halal",
+        "note": "ডানোন মধ্যপ্রাচ্য এবং অন্যান্য মুসলিম দেশে হালাল-সার্টিফাইড পণ্য উৎপাদন করে। তবে সতর্কতা অবলম্বন করুন, কারণ কিছু দেশে সমকামী সম্প্রদায়কে সমর্থন করে।"
+    },
+    {
+        "companyName": "Mars, Incorporated",
+        "origin": "USA",
+        "establishedBy": "ফ্র্যাঙ্ক সি. মার্স",
+        "currentOwner": "মার্স পরিবার",
+        "is": "haram",
+        "note": "মার্স স্কিটলস ব্র্যান্ডের মাধ্যমে সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে এবং ইসরায়েল ফুডটেক সমাধান সহযোগিতার জন্য জেরুজালেম ভেঞ্চার পার্টনারসের সাথে অংশীদারিত্ব করেছে।"
+    },
+    {
+        "companyName": "Kellogg Company (Kellanova)",
+        "origin": "USA",
+        "establishedBy": "উইল কিথ কেলগ",
+        "currentOwner": "Public company, various shareholders",
+        "is": "haram",
+        "note": "কেলগ কোম্পানি GLAAD-এর সাথে অংশীদারিত্বের মাধ্যমে সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে এবং সমকামী-থিমযুক্ত সিরিয়াল প্রচার করেছে।"
+    },
+    {
+        "companyName": "Ferrero Group",
+        "origin": "Italy",
+        "establishedBy": "পিয়েত্রো ফেরেরো",
+        "currentOwner": "ফেরেরো পরিবার",
+        "is": "haram",
+        "note": "ফেরেরো গ্রুপের ইসরায়েল (হোলন) এশিয়া সদর দপ্তর রয়েছে এবং দখলকৃত ফিলিস্তিনি ভূমিতে পরিচালিত বাজারে সক্রিয়ভাবে বিক্রয় করে।"
+    },
+    {
+        "companyName": "Cargill",
+        "origin": "USA",
+        "establishedBy": "উইলিয়াম ওয়ালেস কার্গিল",
+        "currentOwner": "কার্গিল পরিবার",
+        "is": "haram",
+        "note": "কার্গিল কার্গিল প্রাইড নেটওয়ার্কের মাধ্যমে সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে এবং সমকামী সমতা আইনের সমর্থন করে।"
+    },
+    {
+        "companyName": "Archer Daniels Midland (ADM)",
+        "origin": "USA",
+        "establishedBy": "জর্জ এ. আর্চার এবং জন ডব্লিউ. ড্যানিয়েলস",
+        "currentOwner": "Public company, various shareholders",
+        "is": "haram",
+        "note": "এডিএম ইসরায়েল একটি নিয়ন্ত্রক স্বার্থ অর্জন করেছে এবং 'এডিএম ইসরায়েল' নামে পরিচিত, যা ইসরায়েলি কোম্পানি 'ইন্ডাস্ট্রিজ সেন্টার্স' অধিগ্রহণ করেছে।"
+    },
+    {
+        "companyName": "Conagra Brands",
+        "origin": "USA",
+        "establishedBy": "অ্যালবিন ক্যান্টন",
+        "currentOwner": "Public company, various shareholders",
+        "is": "haram",
+        "note": "কনাগ্রা ব্র্যান্ডস তাদের বৈচিত্র্য ও অন্তর্ভুক্তি নীতির মাধ্যমে সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে।"
+    },
+    {
+        "companyName": "Hershey Company",
+        "origin": "USA",
+        "establishedBy": "মিল্টন এস. হার্শি",
+        "currentOwner": "হার্শি ট্রাস্ট এবং Public shareholders",
+        "is": "haram",
+        "note": "হার্শি কোম্পানি সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে এবং হিউম্যান রাইটস ক্যাম্পেইনের কর্পোরেট ইক্যুয়ালিটি ইনডেক্সে শীর্ষ স্কোর অর্জন করেছে।"
+    },
+    {
+        "companyName": "McCain Foods",
+        "origin": "Canada",
+        "establishedBy": "হ্যারিসন ম্যাককেইন",
+        "currentOwner": "ম্যাককেইন পরিবার",
+        "is": "halal",
+        "note": "ম্যাককেইন ফুডস মধ্যপ্রাচ্যে বিক্রি করা সমস্ত পণ্যে হালাল সার্টিফিকেশন প্রদান করে। এখন পর্যন্ত এদের ইসরায়েল বা সমকামী সমর্থনের সাথে সম্পর্ক পাওয়া যায়নি।"
+    },
+    {
+        "companyName": "Associated British Foods",
+        "origin": "UK",
+        "establishedBy": "গার্ফিল্ড ওয়েস্টন",
+        "currentOwner": "ওয়েস্টন পরিবার",
+        "is": "haram",
+        "note": "অ্যাসোসিয়েটেড ব্রিটিশ ফুডস কেএফসি-র মালিক, যেটি ইসরায়েল পরিচালনা করে এবং দখলকৃত ফিলিস্তিনি ভূমিতে কার্যক্রম চালায়।"
+    },
+    {
+        "companyName": "Lactalis Group",
+        "origin": "France",
+        "establishedBy": "আন্দ্রে বেনিয়ার",
+        "currentOwner": "বেনিয়ার পরিবার",
+        "is": "halal",
+        "note": "ল্যাকটালিস গ্রুপ বৈচিত্র্য, সমতা ও অন্তর্ভুক্তি নীতি অনুসরণ করলেও, ইসরায়েল বা সমকামী সমর্থনের সাথে সরাসরি সম্পর্ক পাওয়া যায়নি।"
+    },
+    {
+        "companyName": "Grupo Bimbo",
+        "origin": "Mexico",
+        "establishedBy": "লরেন্জো সার্ভিতজে এবং লরেন্জো সেন্দায়া",
+        "currentOwner": "সার্ভিতজে পরিবার",
+        "is": "halal",
+        "note": "গ্রুপো বিম্বো তাদের কিছু পণ্যে হালাল সার্টিফিকেশন প্রদান করে। এখন পর্যন্ত এদের ইসরায়েল বা সমকামী সমর্থনের সাথে সম্পর্ক পাওয়া যায়নি।"
+    },
+    {
+        "companyName": "Campbell Soup Company",
+        "origin": "USA",
+        "establishedBy": "জোসেফ ক্যাম্পবেল",
+        "currentOwner": "Public company, various shareholders",
+        "is": "haram",
+        "note": "ক্যাম্পবেল সুপ কোম্পানি সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে এবং বিভিন্ন সমকামী অধিকার সংস্থার সাথে সহযোগিতা করে।"
+    },
+    {
+        "companyName": "Kirin Holdings",
+        "origin": "Japan",
+        "establishedBy": "কিরিন ব্রুয়ারি",
+        "currentOwner": "Public company, various shareholders",
+        "is": "haram",
+        "note": "কিরিন হোল্ডিংস অ্যালকোহল উৎপাদন করে এবং সমকামী-বান্ধব কর্মক্ষেত্র হিসাবে প্রাইড ইনডেক্সে স্বর্ণ মর্যাদা পেয়েছে।"
+    },
+    {
+        "companyName": "Fonterra Co-operative Group",
+        "origin": "New Zealand",
+        "establishedBy": "নিউজিল্যান্ড ডেইরি কো-অপারেটিভস",
+        "currentOwner": "Dairy farmers cooperative",
+        "is": "halal",
+        "note": "ফনটেরা কো-অপারেটিভ গ্রুপ তাদের সমস্ত পণ্যে হালাল সার্টিফিকেশন প্রদান করে এবং বিশ্বব্যাপী হালাল ডেইরি পণ্য সরবরাহ করে।"
+    },
+    {
+        "companyName": "Smithfield Foods",
+        "origin": "USA",
+        "establishedBy": "জোসেফ ডব্লিউ. লুটার",
+        "currentOwner": "WH Group (China)",
+        "is": "haram",
+        "note": "সমিথফিল্ড ফুডস শূকর মাংস উৎপাদনে বিশেষজ্ঞ, যা ইসলামে হারাম।"
+    },
+    {
+        "companyName": "Heineken N.V.",
+        "origin": "Netherlands",
+        "establishedBy": "জেরার্ড এড্রিয়ান হাইনেকেন",
+        "currentOwner": "হাইনেকেন পরিবার এবং Public shareholders",
+        "is": "haram",
+        "note": "হাইনেকেন অ্যালকোহলিক পানীয় উৎপাদন ও বিক্রয় করে, যা ইসলামে হারাম।"
+    },
+    {
+        "companyName": "Perdue Farms",
+        "origin": "USA",
+        "establishedBy": "আর্থার পারডিউ",
+        "currentOwner": "পারডিউ পরিবার",
+        "is": "halal",
+        "note": "পারডিউ ফার্মস হালাল-সার্টিফাইড পোল্ট্রি পণ্য উৎপাদন করে এবং মুসলিম ভোক্তাদের চাহিদা পূরণের জন্য হালাল প্রক্রিয়া অনুসরণ করে।"
+    },
+    {
+        "companyName": "Red Bull GmbH",
+        "origin": "Austria",
+        "establishedBy": "ডিট্রিচ মাটেসিটজ",
+        "currentOwner": "মাটেসিটজ পরিবার",
+        "is": "haram",
+        "note": "রেড বুল সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে এবং সমকামী ইভেন্টের স্পনসর করে।"
+    },
+    {
+        "companyName": "Hormel Foods",
+        "origin": "USA",
+        "establishedBy": "জর্জ এ. হোর্মেল",
+        "currentOwner": "হোর্মেল ফাউন্ডেশন এবং Public shareholders",
+        "is": "haram",
+        "note": "হোর্মেল ফুডস সমকামী সম্প্রদায়কে সক্রিয় সমর্থন করে এবং শূকর মাংস উৎপাদন করে, যা ইসলামে হারাম।"
+    },
+    {
+        "companyName": "Kerry Group",
+        "origin": "Ireland",
+        "establishedBy": "থমাস কেরি",
+        "currentOwner": "Public company, various shareholders",
+        "is": "halal",
+        "note": "কেরি গ্রুপ বিভিন্ন দেশে হালাল-সার্টিফাইড পণ্য উৎপাদন করে এবং মুসলিম বাজারে পণ্য সরবরাহ করে।"
+    },
+    {
+        "companyName": "AGC-Landmark",
+        "origin": "Japan/USA",
+        "establishedBy": "এ.জি. সিগ্রাম কোম্পানি এবং গ্রেন প্রসেসিং কর্পোরেশন",
+        "currentOwner": "AGC and Landmark Groups",
+        "is": "halal",
+        "note": "এজিসি-ল্যান্ডমার্ক মূলত শস্য প্রক্রিয়াকরণে কাজ করে এবং এখন পর্যন্ত এদের ইসরায়েল বা সমকামী সমর্থনের সাথে সম্পর্ক পাওয়া যায়নি।"
+    },
+    {
+        "companyName": "Saputo Foods",
+        "origin": "Canada",
+        "establishedBy": "সাপুটো পরিবার",
+        "currentOwner": "সাপুটো পরিবার এবং Public shareholders",
+        "is": "halal",
+        "note": "সাপুটো ফুডস হালাল-সার্টিফাইড পনির এবং ডেইরি পণ্য উৎপাদন করে এবং মুসলিম বাজারে সক্রিয়।"
+    },
+    {
+        "companyName": "Ingelhoferspekulaarenfabriek",
+        "origin": "Germany",
+        "establishedBy": "ইংলেহোফার পরিবার",
+        "currentOwner": "ইংলেহোফার পরিবার",
+        "is": "halal",
+        "note": "ইনগ্লেহোফার তাদের কিছু বিস্কুট এবং কুকির জন্য হালাল সার্টিফিকেশন প্রদান করে।"
     }
 ]
