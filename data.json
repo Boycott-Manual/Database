@@ -1,0 +1,34 @@
+[
+    {
+        "companyName": "Check Point Software Technologies",
+        "origin": "Israel",
+        "establishedBy": "Gil Shwed, Marius Nacht, and Shlomo Kramer",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Israeli-founded cybersecurity company headquartered in Tel Aviv. Companies with Israeli origins are considered haram by many Islamic scholars due to concerns about supporting the Israeli state."
+    },
+    {
+        "companyName": "Teva Pharmaceutical Industries",
+        "origin": "Israel",
+        "establishedBy": "Chaim Salomon, Moshe Levin, and Yitschak Elstein",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "World's largest generic drug manufacturer based in Israel. Supporting Israeli companies is considered haram by many Islamic authorities due to political and religious concerns."
+    },
+    {
+        "companyName": "Wix",
+        "origin": "Israel",
+        "establishedBy": "Avishai Abrahami, Nadav Abrahami, and Giora Kaplan",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Website development platform founded and headquartered in Tel Aviv, Israel. Companies founded in Israel are considered haram by many Muslims due to the occupation of Palestinian territories."
+    },
+    {
+        "companyName": "Super Group (Betway)",
+        "origin": "Malta",
+        "establishedBy": "Super Group Ltd",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Online sports betting and gaming company (Betway, Spin). Online gambling and sports betting are explicitly forbidden (haram) in Islam as forms of gambling."
+    }
+]
